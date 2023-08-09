@@ -22,6 +22,7 @@ class OnBoardingActivity : AppCompatActivity() {
 
         binding.signupButton.setOnClickListener {
             val intent : Intent = Intent(this@OnBoardingActivity, RegisterActivity::class.java)
+            intent.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY)
             startActivity(intent)
         }
 
