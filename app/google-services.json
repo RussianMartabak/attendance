@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "288245226475",
+    "project_id": "phincon-th",
+    "storage_bucket": "phincon-th.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288245226475:android:01f31d5a19f5b0712b97ae",
+        "android_client_info": {
+          "package_name": "com.martabak.phincon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288245226475-iter8scqjr7877d3uispv3riaui4qjn4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdOmLAwHZA0iIBYYQ8OwOx97akyUr9-Xk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288245226475-iter8scqjr7877d3uispv3riaui4qjn4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

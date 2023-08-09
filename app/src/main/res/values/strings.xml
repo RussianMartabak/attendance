@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Phincon</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="absensi_details">Kehadiran sistem absensi digital merupakan penemuan yang mampu menggantikan pencatatan data kehadiran secara manual</string>
+    <string name="attendance_details">Pengelolaan karyawan di era digital yang baik, menghasilkan karyawan terbaik pula, salah satunya absensi karyawan</string>
+    <string name="masker_details">Guna mencegah penyebaran virus Covid-19, Pemerintah telah mengeluarkan kebijakan Physical Distancing serta kebijakan bekerja, belajar, dan beribadah dari rumah.</string>
+    <string name="register_details">Please fill Fullname, No. KTP, Ship &amp; Password to register your app</string>
+</resources>
