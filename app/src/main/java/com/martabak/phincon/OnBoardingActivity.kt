@@ -26,6 +26,12 @@ class OnBoardingActivity : AppCompatActivity() {
             startActivity(intent)
         }
 
+        binding.loginButton.setOnClickListener {
+            val intent = Intent(this@OnBoardingActivity, LoginActivity::class.java)
+            intent.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY)
+            startActivity(intent)
+        }
+
         viewPager2.adapter = object : FragmentStateAdapter(this) {
             override fun createFragment(position: Int): Fragment {
                 return fragmentList[position]

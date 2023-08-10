@@ -45,7 +45,7 @@
         <!-- Customize your theme here. -->
         <item name="android:windowNoTitle">true</item>
         <item name="android:windowActionBar">false</item>
-        <item name="android:colorBackground">@color/phincon_blueback</item>
+        <item name="android:colorBackground">#F8F9F9</item>
     </style>
     <style name="Theme.SplashScreen" parent="Theme.MaterialComponents.DayNight.NoActionBar">
         <!-- Primary brand color. -->
