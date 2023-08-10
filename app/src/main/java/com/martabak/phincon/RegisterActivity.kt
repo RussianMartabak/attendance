@@ -51,7 +51,7 @@ class RegisterActivity : AppCompatActivity() {
                             startActivity(intent)
                             finish()
                         } else {
-                            showError("Unexpected ERROR")
+                            showError(task.exception!!.message!!)
                         }
                     }
             }

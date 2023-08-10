@@ -31,7 +31,7 @@
     </ImageView>
 
     <TextView
-        android:id="@+id/lokasi_header"
+        android:id="@+id/lokasiHeader"
         android:layout_width="175dp"
         android:layout_height="wrap_content"
         android:layout_marginTop="5dp"
@@ -53,6 +53,6 @@
         android:textColor="#77869E"
         android:textSize="9sp"
         app:layout_constraintEnd_toEndOf="@+id/box_bg"
-        app:layout_constraintTop_toBottomOf="@+id/lokasi_header" />
+        app:layout_constraintTop_toBottomOf="@+id/lokasiHeader" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
